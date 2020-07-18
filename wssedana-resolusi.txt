@@ -1,5 +1,3 @@
 WS.SEDANA RESOLUSI
 ----||-----
-bisa menguasai CI dan FLUTTER
-membuat website
-membuat aplikasi mobile
+flutter
