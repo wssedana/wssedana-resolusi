@@ -1,2 +1,4 @@
 WS.SEDANA RESOLUSI
 ----||-----
+membuat wssedana chanel
+bisa menguasai CI dan FLUTTER
