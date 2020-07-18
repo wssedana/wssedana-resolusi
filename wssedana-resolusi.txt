@@ -1,4 +1,4 @@
 WS.SEDANA RESOLUSI
 ----||-----
-bisa menguasai CI dan FLUTTER
-membuat website
+flutter
+ES6
