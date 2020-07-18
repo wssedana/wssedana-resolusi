@@ -3,4 +3,6 @@ WS.SEDANA RESOLUSI
 flutter
 ES6
 Struktur Data Dasar
-
+ *Vue
+ *Laravel
+ *Phyton
